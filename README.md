@@ -1,4 +1,4 @@
-# Curso Digital: Git
+# Sobre mim
 
 ## Comando basicos Git
 * Comando git init
