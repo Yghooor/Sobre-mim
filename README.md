@@ -1,6 +1,6 @@
 # Curso Digital: Git
 
-## Comando Git
+## Comando basicos Git
 * Comando git init
 * Comando git status
 * Comando git push
