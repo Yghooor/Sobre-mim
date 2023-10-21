@@ -2,7 +2,7 @@
 
 ## Comando basicos Git
 * Comando git init
- | Iniciar um novo repositório git |
+  "Comando para iniciar um repositório Git"
 * Comando git status
 * Comando git push
 * Comando git pull
