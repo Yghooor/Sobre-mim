@@ -1,12 +1,15 @@
 # Sobre mim
 
-## Comando basicos Git
-* Comando git init
-
-  |Comando para iniciar um repositório Git|
-  
-* Comando git status
-* Comando git push
-* Comando git pull
-* Comando git fetch
-* 
+## Nome 
+* Yghor Alexandre de almeida
+## Idade
+* 27 Anos  
+## Estado Civil
+* Solteiro
+## Escolaridade
+* Ensino Médio completo
+## Hobbies
+* Estudar TI 
+* Assistir Animes e Séries
+* Ler 
+ 
