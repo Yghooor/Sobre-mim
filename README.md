@@ -12,4 +12,5 @@
 * Estudar TI 
 * Assistir Animes e Séries
 * Ler 
+* Ir a praia 
  
