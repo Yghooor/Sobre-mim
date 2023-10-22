@@ -9,7 +9,7 @@
 ## Escolaridade
 * Ensino Médio completo
 ## Cursos
-* Suporte e Manunteção de computadores (Cursando)
+* Suporte e Manutenção de computadores (Cursando)
 
     *Universidade do trabalho digital* (UTD)
          *Conclusão - Novembro/2023*
