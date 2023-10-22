@@ -14,7 +14,7 @@
     *Universidade do trabalho digital* (UTD)
          *Conclusão - Novembro/2023*
 ## Social media 
-  [LinkedIn] (www.linkedin.com/in/yghor-almeida-87424a222)
+  [![LinkedIn](www.linkedin.com/in/yghor-almeida-87424a222)
 
 ## Hobbies
 * Estudar TI 
