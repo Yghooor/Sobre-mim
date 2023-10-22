@@ -15,11 +15,11 @@
          *Conclusão - Novembro/2023*
 ## Social media 
 
- [Meu Perfil no LinkedIn](https://www.linkedin.com/in/yghor-almeida-87424a222/)
+ [LinkedIn](https://www.linkedin.com/in/yghor-almeida-87424a222/)
 
 ## Certificados 
 * 
-* Assistir Animes e Séries
-* Ler 
-* Ir a praia 
+* 
+* 
+* 
  
