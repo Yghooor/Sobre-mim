@@ -17,8 +17,8 @@
 
  [Meu Perfil no LinkedIn](https://www.linkedin.com/in/yghor-almeida-87424a222/)
 
-## Hobbies
-* Estudar TI 
+## Certificados 
+* 
 * Assistir Animes e Séries
 * Ler 
 * Ir a praia 
